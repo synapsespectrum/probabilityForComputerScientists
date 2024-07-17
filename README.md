@@ -1,3 +1,6 @@
+# Checkout deployed link: 
+https://synapsespectrum.github.io/probabilityForComputerScientists/en/
+
 # Setup
 
 Download dependencies
